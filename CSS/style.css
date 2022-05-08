@@ -1,16 +1,21 @@
 * {
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 .g-font1 {
     font: oxygen 300px;
 }
-.parallax-computer-girl {
-    background-image: url('/Img/girl_computer_red.jpg');
-    height: 50%;
+.jumbotron {
+    height: 50vh;
+    
+}
+.parallax {;
+    height: 500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.para-computergirl {
+        background-image: url('/Img/girl_computer_red.jpg')
 }
