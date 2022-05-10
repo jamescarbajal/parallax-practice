@@ -7,6 +7,7 @@
 }
 .jumbotron {
     height: 50vh;
+    background-color: rgba(0,0,0,0.8);
 }
 .parallax {
     height: 500px;
@@ -16,7 +17,8 @@
     background-size: cover;
 }
 .para-computergirl {
-    background-image: url('/Img/girl_computer_red.jpg')
+    background-image: url('/Img/girl_computer_red.jpg');
+    margin-top: -50vh;
 }
 .para-codingScreen {
     background-image: url('/Img/coding_screen.jpg');
