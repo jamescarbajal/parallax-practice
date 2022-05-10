@@ -6,8 +6,10 @@
     font: oxygen 300px;
 }
 .jumbotron {
+    position: relative;
     height: 50vh;
-    background-color: rgba(0,0,0,0.8);
+    z-index: 10;
+    background-color: rgba(0,0,0,0.7);
 }
 .parallax {
     height: 500px;
@@ -16,12 +18,13 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-.para-computergirl {
-    background-image: url('/Img/girl_computer_red.jpg');
-    margin-top: -50vh;
-}
 .para-codingScreen {
     background-image: url('/Img/coding_screen.jpg');
+    margin-top: -50vh;
+    height: 85vh;
+}
+.para-computerGirl {
+    background-image: url('/Img/girl_computer_red.jpg');
 }
 .para-openLaptop {
     background-image: url('/Img/half_open_laptop.jpg');
