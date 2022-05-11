@@ -19,16 +19,16 @@
     background-size: cover;
 }
 .para-codingScreen {
-    background-image: url('/Img/coding-screen.jpg');
+    background-image: url('Img/coding-screen.jpg');
     margin-top: -50vh;
     height: 85vh;
 }
 .para-computerGirl {
-    background-image: url('/Img/girl-computer-red.jpg');
+    background-image: url('Img/girl-computer-red.jpg');
 }
 .para-openLaptop {
-    background-image: url('/Img/half-open-laptop.jpg');
+    background-image: url('Img/half-open-laptop.jpg');
 }
 .para-laptopHeadphones {
-    background-image: url('/Img/laptop-and-headphones.jpg');
+    background-image: url('Img/laptop-and-headphones.jpg');
 }
