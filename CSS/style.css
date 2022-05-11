@@ -19,7 +19,7 @@
     background-size: cover;
 }
 .para-codingScreen {
-    background-image: url('Img/coding-screen.jpg');
+    background-image: url('https://github.com/jamescarbajal/parallax-practice/blob/5e3e8d738d8fdedcd1e3182014f3910fac0d4cde/Img/coding-screen.jpg');
     margin-top: -50vh;
     height: 85vh;
 }
